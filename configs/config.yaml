@@ -1,0 +1,3 @@
+base_url: "https://www.altimetrik.com/"
+env: staging
+browser: chromium
