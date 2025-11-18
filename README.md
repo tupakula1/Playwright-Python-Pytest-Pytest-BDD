@@ -1,5 +1,6 @@
 Enterprise-Grade Automation Framework
 Python + Pytest + Pytest-BDD + Playwright + Allure Reporting
+
 📌 Overview
 
 This repository contains an Enterprise-Grade Unified Test Automation Framework built using:
@@ -12,3 +13,4 @@ Allure Reporting
 Config-Driven Architecture
 Page Object Model
 Reusable Utilities
+
