@@ -1,0 +1,4 @@
+home_page:
+  alt_logo: ":is(img[alt='Altimetrik Logo'], img[alt=\"Altimetrik logo\"], .navbar-brand img)"
+  menu_button: "button.menu-toggle"
+  search_icon: "xpath=//div[@class='search-icon']"

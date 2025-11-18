@@ -1,0 +1,28 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# Allure
+reports/allure-results/
+reports/allure-report/
+
+# Playwright artifacts
+reports/videos/
+reports/screenshots/
+reports/traces/
+
+# pytest cache
+.pytest_cache/
+
+# Do not commit network logs
+reports/*.har
+reports/network_logs.har
+reports/*.log
+reports/*.json
+
+# Log files
+logs/
+*.log
+reports/logs/
+reports/*.log
